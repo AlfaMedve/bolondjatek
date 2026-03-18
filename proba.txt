@@ -1,1 +1,2 @@
 Ez egy mondat.
+Tavasz,Nyár,Ősz,Tél
